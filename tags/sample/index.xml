@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sample on Simple Codex</title>
-    <link>https://anaclb.github.io/tags/sample/</link>
+    <link>https://anaclb.com/tags/sample/</link>
     <description>Recent content in sample on Simple Codex</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 27 Dec 2021 07:28:27 +0800</lastBuildDate><atom:link href="https://anaclb.github.io/tags/sample/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Dec 2021 07:28:27 +0800</lastBuildDate><atom:link href="https://anaclb.com/tags/sample/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>This is a sample post</title>
-      <link>https://anaclb.github.io/2021/12/this-is-a-sample-post/</link>
+      <link>https://anaclb.com/2021/12/this-is-a-sample-post/</link>
       <pubDate>Mon, 27 Dec 2021 07:28:27 +0800</pubDate>
       
-      <guid>https://anaclb.github.io/2021/12/this-is-a-sample-post/</guid>
+      <guid>https://anaclb.com/2021/12/this-is-a-sample-post/</guid>
       <description>What&amp;rsquo;s this This is a sample post. If you wanna steal the look, here are some tips.
 I use Vno Hugo, a theme for Hugo. It is a port of onevcat&amp;rsquo;s Vno Jekyll.
 Usage Inside the folder of your Hugo site run:

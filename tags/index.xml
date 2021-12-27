@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Simple Codex</title>
-    <link>https://anaclb.github.io/tags/</link>
+    <link>https://anaclb.com/tags/</link>
     <description>Recent content in Tags on Simple Codex</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 27 Dec 2021 07:28:27 +0800</lastBuildDate><atom:link href="https://anaclb.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Dec 2021 07:28:27 +0800</lastBuildDate><atom:link href="https://anaclb.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>one</title>
-      <link>https://anaclb.github.io/tags/one/</link>
+      <link>https://anaclb.com/tags/one/</link>
       <pubDate>Mon, 27 Dec 2021 07:28:27 +0800</pubDate>
       
-      <guid>https://anaclb.github.io/tags/one/</guid>
+      <guid>https://anaclb.com/tags/one/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sample</title>
-      <link>https://anaclb.github.io/tags/sample/</link>
+      <link>https://anaclb.com/tags/sample/</link>
       <pubDate>Mon, 27 Dec 2021 07:28:27 +0800</pubDate>
       
-      <guid>https://anaclb.github.io/tags/sample/</guid>
+      <guid>https://anaclb.com/tags/sample/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>https://anaclb.github.io/tags/hugo/</link>
+      <link>https://anaclb.com/tags/hugo/</link>
       <pubDate>Mon, 27 Dec 2021 07:28:17 +0800</pubDate>
       
-      <guid>https://anaclb.github.io/tags/hugo/</guid>
+      <guid>https://anaclb.com/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Say Hi</title>
-      <link>https://anaclb.github.io/tags/say-hi/</link>
+      <link>https://anaclb.com/tags/say-hi/</link>
       <pubDate>Mon, 27 Dec 2021 07:28:17 +0800</pubDate>
       
-      <guid>https://anaclb.github.io/tags/say-hi/</guid>
+      <guid>https://anaclb.com/tags/say-hi/</guid>
       <description></description>
     </item>
     

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo on Simple Codex</title>
-    <link>https://anaclb.github.io/tags/hugo/</link>
+    <link>https://anaclb.com/tags/hugo/</link>
     <description>Recent content in Hugo on Simple Codex</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 27 Dec 2021 07:28:17 +0800</lastBuildDate><atom:link href="https://anaclb.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Dec 2021 07:28:17 +0800</lastBuildDate><atom:link href="https://anaclb.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Second sample</title>
-      <link>https://anaclb.github.io/2021/12/second-sample/</link>
+      <link>https://anaclb.com/2021/12/second-sample/</link>
       <pubDate>Mon, 27 Dec 2021 07:28:17 +0800</pubDate>
       
-      <guid>https://anaclb.github.io/2021/12/second-sample/</guid>
+      <guid>https://anaclb.com/2021/12/second-sample/</guid>
       <description>This is a second sample! These site can be rebuilded in many different ways, but the most common way is to run hugo serve, which launches a web server and auto-regenerates your site when a file is updated.
 To add new posts, simply run:
 $ hugo new posts/my-sample-post.md </description>
