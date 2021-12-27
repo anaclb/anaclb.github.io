@@ -5,16 +5,16 @@
     <link>https://anaclb.github.io/tags/hugo/</link>
     <description>Recent content in Hugo on A Simple Codex</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 19 Jul 2021 07:28:17 +0800</lastBuildDate><atom:link href="https://anaclb.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Dec 2021 07:28:17 +0800</lastBuildDate><atom:link href="https://anaclb.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sample Post</title>
-      <link>https://anaclb.github.io/2021/07/sample-post/</link>
-      <pubDate>Mon, 19 Jul 2021 07:28:17 +0800</pubDate>
+      <title>Second sample</title>
+      <link>https://anaclb.github.io/2021/12/second-sample/</link>
+      <pubDate>Mon, 27 Dec 2021 07:28:17 +0800</pubDate>
       
-      <guid>https://anaclb.github.io/2021/07/sample-post/</guid>
-      <description>You’ll find this post in your posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run hugo serve, which launches a web server and auto-regenerates your site when a file is updated.
+      <guid>https://anaclb.github.io/2021/12/second-sample/</guid>
+      <description>This is a second sample! These site can be rebuilded in many different ways, but the most common way is to run hugo serve, which launches a web server and auto-regenerates your site when a file is updated.
 To add new posts, simply run:
-$ hugo new posts/my-sample-post.md And you shall see the my-sample-post.md file in posts directory, just edit the front matter and content as you like.</description>
+$ hugo new posts/my-sample-post.md </description>
     </item>
     
   </channel>

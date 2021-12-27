@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on A Simple Codex</title>
-    <link>https://anaclb.github.io/posts/</link>
-    <description>Recent content in Posts on A Simple Codex</description>
+    <title>one on A Simple Codex</title>
+    <link>https://anaclb.github.io/tags/one/</link>
+    <description>Recent content in one on A Simple Codex</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 27 Dec 2021 07:28:27 +0800</lastBuildDate><atom:link href="https://anaclb.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Dec 2021 07:28:27 +0800</lastBuildDate><atom:link href="https://anaclb.github.io/tags/one/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>This is a sample post</title>
       <link>https://anaclb.github.io/2021/12/this-is-a-sample-post/</link>
@@ -16,17 +16,6 @@
 I use Vno Hugo, a theme for Hugo. It is a port of onevcat&amp;rsquo;s Vno Jekyll.
 Usage Inside the folder of your Hugo site run:
 $ git submodule add https://github.com/xslingcn/vno-hugo.git themes/vno-hugo Copy everything in the exampleSite folder to the root of your hugo site, then run hugo serve. Your site with Vno Hugo enabled should be accessible in http://localhost:1313/.</description>
-    </item>
-    
-    <item>
-      <title>Second sample</title>
-      <link>https://anaclb.github.io/2021/12/second-sample/</link>
-      <pubDate>Mon, 27 Dec 2021 07:28:17 +0800</pubDate>
-      
-      <guid>https://anaclb.github.io/2021/12/second-sample/</guid>
-      <description>This is a second sample! These site can be rebuilded in many different ways, but the most common way is to run hugo serve, which launches a web server and auto-regenerates your site when a file is updated.
-To add new posts, simply run:
-$ hugo new posts/my-sample-post.md </description>
     </item>
     
   </channel>

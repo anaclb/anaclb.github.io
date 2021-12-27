@@ -5,28 +5,28 @@
     <link>https://anaclb.github.io/</link>
     <description>Recent content on A Simple Codex</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 19 Jul 2021 07:28:27 +0800</lastBuildDate><atom:link href="https://anaclb.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Dec 2021 07:28:27 +0800</lastBuildDate><atom:link href="https://anaclb.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World Vno</title>
-      <link>https://anaclb.github.io/2021/07/hello-world-vno/</link>
-      <pubDate>Mon, 19 Jul 2021 07:28:27 +0800</pubDate>
+      <title>This is a sample post</title>
+      <link>https://anaclb.github.io/2021/12/this-is-a-sample-post/</link>
+      <pubDate>Mon, 27 Dec 2021 07:28:27 +0800</pubDate>
       
-      <guid>https://anaclb.github.io/2021/07/hello-world-vno/</guid>
-      <description>What&amp;rsquo;s this Vno Hugo is a theme for Hugo. It is a port of onevcat&amp;rsquo;s Vno Jekyll, which is originally developed from Dale Anthony&amp;rsquo;s Uno.
+      <guid>https://anaclb.github.io/2021/12/this-is-a-sample-post/</guid>
+      <description>What&amp;rsquo;s this This is a sample post. If you wanna steal the look, here are some tips.
+I use Vno Hugo, a theme for Hugo. It is a port of onevcat&amp;rsquo;s Vno Jekyll.
 Usage Inside the folder of your Hugo site run:
-$ git submodule add https://github.com/xslingcn/vno-hugo.git themes/vno-hugo Copy everything in the exampleSite folder to the root of your hugo site, then run hugo serve. Your site with Vno Hugo enabled should be accessible in http://localhost:1313/.
-For more information about Hugo, please visit Hugo&amp;rsquo;s site.</description>
+$ git submodule add https://github.com/xslingcn/vno-hugo.git themes/vno-hugo Copy everything in the exampleSite folder to the root of your hugo site, then run hugo serve. Your site with Vno Hugo enabled should be accessible in http://localhost:1313/.</description>
     </item>
     
     <item>
-      <title>Sample Post</title>
-      <link>https://anaclb.github.io/2021/07/sample-post/</link>
-      <pubDate>Mon, 19 Jul 2021 07:28:17 +0800</pubDate>
+      <title>Second sample</title>
+      <link>https://anaclb.github.io/2021/12/second-sample/</link>
+      <pubDate>Mon, 27 Dec 2021 07:28:17 +0800</pubDate>
       
-      <guid>https://anaclb.github.io/2021/07/sample-post/</guid>
-      <description>You’ll find this post in your posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run hugo serve, which launches a web server and auto-regenerates your site when a file is updated.
+      <guid>https://anaclb.github.io/2021/12/second-sample/</guid>
+      <description>This is a second sample! These site can be rebuilded in many different ways, but the most common way is to run hugo serve, which launches a web server and auto-regenerates your site when a file is updated.
 To add new posts, simply run:
-$ hugo new posts/my-sample-post.md And you shall see the my-sample-post.md file in posts directory, just edit the front matter and content as you like.</description>
+$ hugo new posts/my-sample-post.md </description>
     </item>
     
   </channel>
